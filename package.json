@@ -10,7 +10,12 @@
     "build": "cd client && npm run build",
     "start": "cd server && npm start"
   },
-  "keywords": ["mern", "tic-tac-toe", "multiplayer", "socket.io"],
+  "keywords": [
+    "mern",
+    "tic-tac-toe",
+    "multiplayer",
+    "socket.io"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
